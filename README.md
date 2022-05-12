@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsacNasc
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me @isac.vazio on instagram
 
