@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IsacNasc
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on React Native
-- 📫 How to reach me @isac.vazio on instagram
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me isac.onascimento1411@gmail.com
 
 <!---
 IsacNasc/IsacNasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
