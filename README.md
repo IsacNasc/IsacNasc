@@ -2,7 +2,7 @@
 
 ### Data & Analytics Engineer &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; Lakehouse
 
-Bradesco &nbsp;·&nbsp; Barueri, SP &nbsp;·&nbsp; Brasil 🇧🇷
+Barueri, SP &nbsp;·&nbsp; Brasil 🇧🇷
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2500&pause=700&color=2D78FF&vCenter=true&width=520&height=28&lines=●+focus+%3D+%5B%22Data+Engineering%22%2C+%22Lakehouse%22%2C+%22Analytics%22%5D;●+stack+%3D+%5B%22PySpark%22%2C+%22Databricks%22%2C+%22SQL%22%5D;●+status+%3D+%22open_to_work%22+✓)](https://github.com/isac-oliveira-nascimento)
 
