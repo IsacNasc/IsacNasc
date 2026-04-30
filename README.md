@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Izabella | Banking Intelligence & Data Governance
+# Isac | Banking Intelligence & Data Governance
 
 **Analista de Processos Bancários → AI & Data**  
 Bradesco · Cards & Commercial Planning · Osasco, SP
@@ -20,7 +20,7 @@ Bradesco · Cards & Commercial Planning · Osasco, SP
 Analista na intersecção entre **processos bancários, conformidade regulatória e tecnologia de dados**.  
 Atuo em planejamento comercial de cartões em uma das maiores instituições financeiras do Brasil — construindo, paralelamente, competências técnicas em análise de dados e automação aplicadas ao contexto de auditoria e controles internos.
 
-Background operacional em ambiente bancário de alta complexidade combinado com formação dupla em **Ciência de Dados** (tecnólogo, em conclusão) e **Ciência da Computação** (bacharel, em andamento). Foco atual: construir soluções que traduzam rigor de auditoria em inteligência automatizada.
+Background operacional em ambiente bancário de alta complexidade combinado com formação dupla em **Gestão de T.I** (tecnólogo, concluido) e **Ciência da Computação** (bacharel, em andamento). Foco atual: construir soluções que traduzam rigor de auditoria em inteligência automatizada.
 
 ---
 
