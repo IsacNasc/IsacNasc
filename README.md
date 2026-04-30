@@ -126,7 +126,7 @@ Engenheiro de Dados especializado em **arquitetura Lakehouse, PySpark e Databric
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=isac-oliveira-nascimento&repo=financial-analytics-dashboard&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/isac-oliveira-nascimento/genai-data-automation">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=isac-oliveira-nascimento&repo=genai-data-automation&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
