@@ -128,10 +128,10 @@ Engenheiro de Dados especializado em **arquitetura Lakehouse, PySpark e Databric
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsacNasc&repo=genai-data-automation&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
 </a>
 
-<br>
+&nbsp;
 
-<a href="https://github.com/IsacNasc/lakehouse-migration-pipeline/tree/main">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsacNasc&repo=lakehouse-migration-pipeline&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
+<a href="https://github.com/IsacNasc/financial-analytics-dashboard/tree/main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsacNasc&repo=financial-analytics-dashboard&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
 </a>
 
 <br>
