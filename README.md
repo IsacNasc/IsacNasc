@@ -118,10 +118,12 @@ Engenheiro de Dados especializado em **arquitetura Lakehouse, PySpark e Databric
 
 <br>
 
-<a href="[https://github.com/isac-oliveira-nascimento/lakehouse-migration-pipeline](https://github.com/IsacNasc/lakehouse-migration-pipeline)">
-<img src=["https://github-readme-stats.vercel.app/api/pin/?username=isac-oliveira-nascimento&repo=lakehouse-migration-pipeline&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6"](https://github.com/IsacNasc/lakehouse-migration-pipeline/blob/main/README.md)/>
+<a href="https://github.com/IsacNasc/lakehouse-migration-pipeline/tree/main">
+<img src="https://github.com/IsacNasc/lakehouse-migration-pipeline/blob/main/README.md" />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/isac-oliveira-nascimento/financial-analytics-dashboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=isac-oliveira-nascimento&repo=financial-analytics-dashboard&bg_color=0a0a0a&border_color=1f1f1f&icon_color=2d78ff&title_color=2d78ff&text_color=555555&border_radius=6" />
 </a>
